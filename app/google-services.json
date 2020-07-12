@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "54149443642",
+    "firebase_url": "https://quizakhirbaru.firebaseio.com",
+    "project_id": "quizakhirbaru",
+    "storage_bucket": "quizakhirbaru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54149443642:android:364504697a90a30ec48503",
+        "android_client_info": {
+          "package_name": "com.hayankhrisna.quizakhirbaru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54149443642-og39rsteganq664js4ov65cqu7eocbbv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hayankhrisna.quizakhirbaru",
+            "certificate_hash": "f85a0089ddf0770e058490bd79b0f5e240cf8f15"
+          }
+        },
+        {
+          "client_id": "54149443642-rb7gool1krp4h00227fctvukjgtiimcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzETJr7hcA8nHtJgQRJIXEttq7aXswlxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54149443642-rb7gool1krp4h00227fctvukjgtiimcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
